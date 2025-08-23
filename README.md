@@ -1,7 +1,7 @@
 # PyLogUI
 Simple Python library for displaying logs in GUI program
 
-```
+``` python
 from PyLogUI import Log
 
 log = Log()
